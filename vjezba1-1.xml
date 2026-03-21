@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Pero</ime>
+    <prezime>Peric</prezime>
+    <jmbg>0987654321313</jmbg>
+    <datum_rodjenja>2005-08-19</datum_rodjenja>
+    <godina_studija>2</godina_studija>
+    <studijski_program>Informatika</studijski_program>
+    <adresa>
+        <ulica>Ilica 30</ulica>
+        <grad>Zagreb</grad>
+        <postanski_broj>10000</postanski_broj>
+    </adresa>
+</student>
