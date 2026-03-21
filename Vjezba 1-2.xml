@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Pero</ime>
+    <prezime>Peric</prezime>
+    <jmbg>0987654321123</jmbg>
+    <datum_rodjenja>2005-08-19</datum_rodjenja>
+    <godina_studija>2</godina_studija>
+
+    <kontakt>
+        <email>pero.peric@gmail.com</email>
+        <telefon>091567890</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv>Tjelesni</naziv>
+            <profesor>Ana Anic</profesor>
+            <ects>7</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Uredsko poslovanje</naziv>
+            <profesor>Marko Marić</profesor>
+            <ects>6</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Matematika</naziv>
+            <profesor>Jakov Jakic</profesor>
+            <ects>3</ects>
+        </kolegij>
+    </kolegiji>
+</student>
