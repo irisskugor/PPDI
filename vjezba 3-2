@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+
+    <Ime>Iris</Ime>
+    <Prezime>Skugor</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Vrbik 8</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+
+    <NaruceniArtikl>
+        <Naziv>Laptop</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>1200</Cijena>
+    </NaruceniArtikl>
+
+</Narudzba>
